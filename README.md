@@ -77,11 +77,8 @@ Olist_Project/
 - checked duplicates, nulls, and structural consistency
 
 ### 5. Business Validation Before Dashboarding
-
 Before building the dashboard, the dataset is being validated from a business reporting perspective to ensure KPI calculations are trustworthy.
-
 This includes checks such as:
-
 - order grain validation
 - revenue sanity checks
 - orders without payment
@@ -94,8 +91,8 @@ This step helps ensure that reporting logic is based on reliable and interpretab
 
 ---
 
-### Validation Approach
-## Technical Validation
+## ✅ Validation Approach
+### Technical Validation
 Technical validation ensures that the data has been loaded and structured correctly.
 Examples:
 - row count comparison between CSV files and SQL tables
@@ -103,7 +100,7 @@ Examples:
 - null checks on important fields
 - datatype and loading issue resolution
 
-## Business Validation
+### Business Validation
 Business validation ensures that the dataset is ready for KPI reporting and dashboard interpretation.
 Examples:
 - validating order grain before calculating total orders
@@ -113,7 +110,7 @@ Examples:
 - checking category translation completeness before category-level reporting
 - validating monthly trends before building time-based visuals
 
-## ✅ Current Status
+## 📈 Current Status
 - core datasets cleaned and prepared in Python
 - SQL schema generated and refined
 - major tables loaded into MySQL
