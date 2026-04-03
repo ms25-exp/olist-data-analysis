@@ -43,7 +43,7 @@ Olist_Project/
 ├── sql/            # Schema, load scripts, validation queries, and business SQL
 └── README.md
 ---
-
+```
 ## 🚀 Project Progress
 
 ### 1. Project Setup and Data Understanding
