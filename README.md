@@ -109,6 +109,8 @@ Examples:
 - validating delivery dates before calculating delivery KPIs
 - checking category translation completeness before category-level reporting
 - validating monthly trends before building time-based visuals
+  
+---
 
 ## 📈 Current Status
 - core datasets cleaned and prepared in Python
