@@ -140,4 +140,8 @@ The final deliverable will be an end-to-end analytics project that demonstrates:
 - SQL-based data loading and validation
 - business-focused data quality checks
 - KPI-driven dashboard development in Power BI
+<<<<<<< HEAD
 - clear documentation and version-controlled project workflow
+=======
+- clear documentation and version-controlled project workflow
+>>>>>>> 8ce886b5a4ee93f08a9424b650374f358f32b191
