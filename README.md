@@ -42,8 +42,9 @@ Olist_Project/
 ├── notebooks/      # Python cleaning, preprocessing, and workflow documentation
 ├── sql/            # Schema, load scripts, validation queries, and business SQL
 └── README.md
----
 ```
+---
+
 ## 🚀 Project Progress
 
 ### 1. Project Setup and Data Understanding
